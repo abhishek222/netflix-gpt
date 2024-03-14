@@ -1,6 +1,9 @@
 # Netflix GPT
 - create React application
 - configure tailwind
+- Header
+- Login Form
+- sign up form
 
 # Freatures
 - Login/Sign up
