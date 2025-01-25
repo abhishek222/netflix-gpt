@@ -33,6 +33,9 @@
 - build movie card
 - TMDB Image cdn
 - add more costom hooks
+- GPT search page
+- gpt search bar
+- multi language feature support
 
 # Freatures
 
