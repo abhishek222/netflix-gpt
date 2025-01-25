@@ -20,6 +20,3 @@ export const SUPPORTED_LANGUAGES = [
   { value: "hindi", label: "Hindi" },
   { value: "spanish", label: "Spanish" },
 ];
-
-export const OPENAI_KEY =
-  "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";
