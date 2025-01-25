@@ -36,6 +36,8 @@
 - GPT search page
 - gpt search bar
 - multi language feature support
+- memoisation
+- responsive ui
 
 # Freatures
 
